@@ -1,1 +1,1 @@
-I gust edited my readme file
+I just edited my readme file
